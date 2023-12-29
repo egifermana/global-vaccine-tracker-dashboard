@@ -1,6 +1,6 @@
 # COVID-19 Global Vaccinations Tracker Dashboard
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Vaccine-Dashboard.png)
 
 ## Overview
 
