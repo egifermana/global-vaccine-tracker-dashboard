@@ -36,6 +36,3 @@ As this project is a Tableau dashboard, there is no traditional installation pro
 
 The dataset used for this project is sourced from [Our World in Data](https://ourworldindata.org/covid-vaccinations). Ensure compliance with the dataset's license and usage policies.
 
----
-
-Feel free to customize this template based on your project's specific details and add any additional sections or information that you find relevant. Providing a clear and informative README helps users and collaborators understand your project and how to interact with it.
