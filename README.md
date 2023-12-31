@@ -12,7 +12,6 @@ This repository contains the source code and documentation for the COVID-19 Glob
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Data Source](#data-source)
 
@@ -21,10 +20,6 @@ This repository contains the source code and documentation for the COVID-19 Glob
 - Interactive visualizations of global COVID-19 vaccination data.
 - User-friendly dashboard for tracking vaccination progress across countries.
 - Data insights and trends for better understanding.
-
-## Installation
-
-As this project is a Tableau dashboard, there is no traditional installation process. You can access the live dashboard directly through the provided [link](https://public.tableau.com/app/profile/egi.fermana.putra/viz/COVID-19GlobalVaccinationsTracker/GlobalVaccineTracker).
 
 ## Usage
 
