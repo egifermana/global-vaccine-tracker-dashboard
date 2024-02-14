@@ -1,5 +1,3 @@
-# COVID-19 Global Vaccine Tracker Dashboard
-
 ![Dashboard Preview](banner.png)
 
 ## Overview
