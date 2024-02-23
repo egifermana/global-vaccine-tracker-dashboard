@@ -1,5 +1,3 @@
-![Dashboard Preview](banner.png)
-
 ## Overview
 
 This repository contains the source code and documentation for the COVID-19 Global Vaccinations Tracker, a dashboard project created using Tableau. The dashboard provides visualizations and insights into global COVID-19 vaccination data sourced from Our World in Data.
